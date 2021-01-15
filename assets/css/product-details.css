@@ -1,0 +1,29 @@
+.productMainInformation {
+  border: 0 !important; 
+  background-color: #ffffff;
+}
+
+
+.productImage {
+  float: none;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 0.2em;
+  margin-left: 0.1em;
+  margin-right: 0.2em;
+  background-repeat: no-repeat;
+  background-size: contain;
+  min-height: 200px;
+  min-width: 300px;
+  width: 100% !important;
+}
+
+.boxImages {
+  border: 0 !important; 
+  text-align: center !important; 
+  background-color: #ffffff;
+}
+
+.boxImages .row {
+  margin: 0 !important;
+}
