@@ -31,6 +31,20 @@
 
 
     <style>
+      .home-button, .home-button:hover {
+        -webkit-transition: opacity 1s ease-in-out;
+        -moz-transition: opacity 1s ease-in-out;
+        -ms-transition: opacity 1s ease-in-out;
+        -o-transition: opacity 1s ease-in-out;
+        transition: opacity 1s ease-in-out;
+      }
+      
+      .home-button:hover {
+        zoom: 1;
+        filter: alpha(opacity=50);
+        opacity: 0.7;
+      }
+
       .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
@@ -81,28 +95,36 @@
     </div><!-- /.entry-image-index -->
   </div>
 
-  <section class="py-5 text-center" style="width: 100%;">
-    <div class="row py-lg-5">
+  <section class="py-5 text-center" style="width: 100%; padding-top: 0 !important;">
+    <div class="row py-lg-5" style="width: 100%; padding-top: 0 !important;">
       <div class="mx-auto">
         <p class="lead text-muted">De qual das minhas cores deseja saber mais?.</p>
         <p>
           <div class="container">
             <div class="row align-items-center">
-      <div class="col w3-container w3-center w3-animate-bottom-1 animation-custom-params">
-        <div class="card" style="">
-          <img src="https://soucriador.com/media/images/portfolio/phone_tricks.png" class="card-img-top" alt="...">
-        </div>
-      </div>
-      <div class="col w3-container w3-center w3-animate-bottom-2 animation-custom-params">
-        <div class="card" style="">
-          <img src="https://soucriador.com/media/images/portfolio/patrocine.png" class="card-img-top" alt="...">
-        </div>
-      </div>
-      <div class="col w3-container w3-center w3-animate-bottom-3">
-        <div class="card" style="">
-          <img src="https://soucriador.com/media/images/portfolio/restaurant.png" class="card-img-top" alt="...">
-        </div>
-      </div>
+              <!-- jhonattas.com -->
+              <div class="col w3-container w3-center w3-animate-bottom-1 animation-custom-params home-button">
+                <a href="https://jhonattas.com">
+                  <div class="card" style="">
+                    <img src="images/home_buttons/jhonattasdotcom.png" class="card-img-top" alt="...">
+                    jhonattas.com
+                  </div>
+                </a>
+              </div>
+              
+
+              <div class="col w3-container w3-center w3-animate-bottom-2 animation-custom-params home-button">
+                <div class="card" style="">
+                  <img src="https://soucriador.com/media/images/portfolio/patrocine.png" class="card-img-top" alt="...">
+                  project: cynema
+                </div>
+              </div>
+              <div class="col w3-container w3-center w3-animate-bottom-3 home-button">
+                <div class="card" style="">
+                  <img src="https://soucriador.com/media/images/portfolio/restaurant.png" class="card-img-top" alt="...">
+                  project: dane-se a dieta
+                </div>
+              </div>
     </div>
   </div>
           </div>
