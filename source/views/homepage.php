@@ -12,17 +12,17 @@
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="https://blog.jhonattas.com//favicon.ico">
+<link rel="shortcut icon" href="https://blog.jhonattas.com/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="https://blog.jhonattas.com//favicon.png">
+<link rel="shortcut icon" href="https://blog.jhonattas.com/favicon.png">
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="https://blog.jhonattas.com//images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://blog.jhonattas.com/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://blog.jhonattas.com//images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://blog.jhonattas.com/images/apple-touch-icon-72x72-precomposed.png">
 <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://blog.jhonattas.com//images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://blog.jhonattas.com/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://blog.jhonattas.com//images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://blog.jhonattas.com/images/apple-touch-icon-144x144-precomposed.png">
 
 
   <style type="text/css">
@@ -104,7 +104,7 @@
               <div class="col w3-container w3-center w3-animate-bottom-1 animation-custom-params home-button">
                 <a href="https://jhonattas.com">
                   <div class="card" style="">
-                    <img src="<?php echo URL_BASE; ?>/assets/images/home_buttons/jhonattasdotcom.png" class="card-img-top" alt="...">
+                    <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/jhonattasdotcom.png" class="card-img-top" alt="...">
                     jhonattas.com
                   </div>
                 </a>
@@ -144,8 +144,8 @@
 
 
     <script src="https://getbootstrap.com/docs/5.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-    <script src="<?php echo URL_BASE; ?>classie.js"></script>
-    <script src="<?php echo URL_BASE; ?>svg.js"></script>
+    <script src="<?php echo URL_BASE; ?>assets/js/classie.js"></script>
+    <script src="<?php echo URL_BASE; ?>assets/js/svg.js"></script>
 
       
   </body>
