@@ -1,4 +1,3 @@
-
 /**
  * svganimations2.js v1.0.0
  * http://www.soucriador.com.br
