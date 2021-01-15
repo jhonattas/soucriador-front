@@ -10,6 +10,10 @@
     <!-- Bootstrap core CSS -->
     <link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
+    <link rel="stylesheet" type="text/css" href="http://localhost:3458/static/w3.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:3458/static/svg-animation.css">
+
+
 <!-- Icons -->
 <!-- 16x16 -->
 <link rel="shortcut icon" href="https://blog.jhonattas.com/favicon.ico">
@@ -26,8 +30,6 @@
 
 
   <style type="text/css">
-    @import url('<?php echo URL_BASE; ?>assets/css/w3.css');
-    @import url('<?php echo URL_BASE; ?>assets/css/svg-animation.css');
 
     .home-button, .home-button:hover {
       -webkit-transition: opacity 1s ease-in-out;
