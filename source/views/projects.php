@@ -88,10 +88,10 @@
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Projetos</h1>
-        <p class="lead text-muted">Coisas legais que eu fiz e / ou tive a honra de participar</p>
+        <p class="lead text-muted">Coisas legais que eu fiz e / ou tive a honra de participar, informações mais detalhadas de cada projeto estão disponiveis no meu blog.</p>
         <p>
-          <a href="#" class="btn btn-primary my-2">Projetos no Blog</a>
-          <a href="#" class="btn btn-secondary my-2">Secondary action</a>
+          <a href="https://blog.jhonattas.com/tags/#projects" class="btn btn-primary my-2">Projetos no Blog</a>
+          <!-- <a href="#" class="btn btn-secondary my-2">Secondary action</a> -->
         </p>
       </div>
     </div>
