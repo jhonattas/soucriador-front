@@ -29,6 +29,10 @@ class Pages {
     require __DIR__ . "../../views/emails/greetings.php";
   }
 
+  public function projects($data){
+    require __DIR__ . "../../views/projets.php";
+  }
+
   public function stores($data){
     $pagination       = loadPagination();
     $categories       = loadCategories();
