@@ -146,9 +146,16 @@
 
         <div class="col">
           <div 
-            class="card shadow-sm" 
-            style="background-image: url('<?php echo URL_BASE; ?>assets/img/mini/comunicacomm.png')">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            class="card shadow-sm" >
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/comunicacomm.png');
+                background-repeat: no-repeat;
+                background-position: cover"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
               <p class="card-text">COMUNICACOMM - Landing Page</p>
