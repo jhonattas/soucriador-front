@@ -119,8 +119,8 @@
               <p class="card-text">AMATERASU</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
                 <small class="text-muted">Ruby / Amazon SQS</small>
               </div>
@@ -135,8 +135,8 @@
               <p class="card-text">CARDBAN . Site Institucional</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
                 <small class="text-muted">PHP / HTML5 / CSS3</small>
               </div>
@@ -152,8 +152,8 @@
               <p class="card-text">COMUNICACOMM - Landing Page</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
                 <small class="text-muted">HTML5 / CSS3</small>
               </div>
@@ -168,8 +168,8 @@
               <p class="card-text">DANIELLA RAMALHO</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
                 <small class="text-muted">CARTÃO VISITAS / CONF WEBSITE</small>
               </div>
@@ -184,8 +184,8 @@
               <p class="card-text">DCE</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
                 <small class="text-muted">Illustrator / Vetorização</small>
               </div>
@@ -201,8 +201,8 @@
               <p class="card-text">FLYWORLD - Franquia.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
                 <small class="text-muted">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
@@ -217,8 +217,8 @@
               <p class="card-text">GRUPO JR CAMP</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
                 <small class="text-muted">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
@@ -233,8 +233,8 @@
               <p class="card-text">IGOR PALHARES.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
                 <small class="text-muted">Illustrator</small>
               </div>
