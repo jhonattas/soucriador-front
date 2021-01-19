@@ -30,7 +30,7 @@ class Pages {
   }
 
   public function projects($data){
-    require __DIR__ . "../../views/projets.php";
+    require __DIR__ . "../../views/projects.php";
   }
 
   public function stores($data){
