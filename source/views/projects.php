@@ -154,7 +154,8 @@
               style="
                 background-image: url('<?php echo URL_BASE; ?>assets/img/mini/comunicacomm.png');
                 background-repeat: no-repeat;
-                background-position: cover"
+                background-position: cover;
+                background-position: center bottom"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
