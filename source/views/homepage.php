@@ -98,7 +98,7 @@
   <section class="py-5 text-center" style="width: 100%; padding-top: 0 !important;">
     <div class="row py-lg-5" style="width: 100%; padding-top: 0 !important;">
       <div class="mx-auto">
-        <p class="lead text-muted">De qual das minhas cores deseja saber mais?.</p>
+        <p class="lead text-muted">De qual das minhas cores deseja saber mais?</p>
         <p>
           <div class="container">
             <div class="row align-items-center">
