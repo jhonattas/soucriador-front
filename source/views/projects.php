@@ -36,7 +36,7 @@
 
       .card-img-top {
         background-repeat: no-repeat;
-        background-size: contain, cover;
+        background-size: cover, contain;
         background-position: center
       }
 
