@@ -116,13 +116,13 @@
               <div class="col w3-container w3-center w3-animate-bottom-2 animation-custom-params home-button">
                 <div class="card" style="">
                   <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/projects.png" class="card-img-top" alt="...">
-                  project: cynema
+                  projetos
                 </div>
               </div>
               <div class="col w3-container w3-center w3-animate-bottom-3 home-button">
                 <div class="card" style="">
                   <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/services.png" class="card-img-top" alt="...">
-                  project: dane-se a dieta
+                  serviços
                 </div>
               </div>
     </div>
