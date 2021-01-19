@@ -104,7 +104,13 @@
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/saveway.png">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/saveway.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
               <p class="card-text"><b>Saveway</b> - Página institucional.</p>
               <div class="d-flex justify-content-between align-items-center">
@@ -119,7 +125,13 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/amaterasu.png">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/amaterasu.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
               <p class="card-text">AMATERASU</p>
               <div class="d-flex justify-content-between align-items-center">
@@ -134,7 +146,13 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/cardban.png">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/cardban.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
               <p class="card-text">CARDBAN . Site Institucional</p>
@@ -174,7 +192,13 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/daniella_ramalho.jpg">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/daniella_ramalho.jpg');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
               <p class="card-text">DANIELLA RAMALHO</p>
@@ -190,7 +214,13 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/dce.png">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/dce.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
               <p class="card-text">DCE</p>
@@ -207,7 +237,13 @@
 
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/flyworld_franquia.png">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/flyworld_franquia.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
               <p class="card-text">FLYWORLD - Franquia.</p>
@@ -223,7 +259,13 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/grupojrcamp.jpg">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/grupojrcamp.jpg');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
               <p class="card-text">GRUPO JR CAMP</p>
@@ -239,7 +281,13 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/igor_flat.png">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/igor_flat.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
               <p class="card-text">IGOR PALHARES.</p>
