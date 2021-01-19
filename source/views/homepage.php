@@ -105,7 +105,7 @@
               <!-- jhonattas.com -->
               <div class="col w3-container w3-center w3-animate-bottom-1 animation-custom-params home-button">
                 <a href="https://jhonattas.com">
-                  <div class="card" style="">
+                  <div class="card" style="border: none;">
                     <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/jhonattasdotcom.png" class="card-img-top" alt="...">
                     jhonattas.com
                   </div>
@@ -114,13 +114,13 @@
               
 
               <div class="col w3-container w3-center w3-animate-bottom-2 animation-custom-params home-button">
-                <div class="card" style="">
+                <div class="card"  style="border: none;">
                   <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/projects.png" class="card-img-top" alt="...">
                   projetos
                 </div>
               </div>
               <div class="col w3-container w3-center w3-animate-bottom-3 home-button">
-                <div class="card" style="">
+                <div class="card"  style="border: none;">
                   <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/services.png" class="card-img-top" alt="...">
                   serviços
                 </div>
