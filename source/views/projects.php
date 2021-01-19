@@ -154,7 +154,7 @@
               style="
                 background-image: url('<?php echo URL_BASE; ?>assets/img/mini/comunicacomm.png');
                 background-repeat: no-repeat;
-                background-position: cover;
+                background-size: contain, cover;
                 background-position: center bottom"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
