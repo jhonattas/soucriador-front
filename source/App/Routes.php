@@ -8,6 +8,9 @@
   $router->group("agradecimento");
   $router->get("/", "Pages:greetings");
 
+  $router->group("projetos");
+  $router->get("/", "Pages:projects");
+
   $router->group("manutencao");
   $router->get("/", "Pages:maintenance");
 
