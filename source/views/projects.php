@@ -122,7 +122,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                 </div>
-                <small class="text-muted">9 mins</small>
+                <small class="text-muted">Ruby / Amazon SQS</small>
               </div>
             </div>
           </div>
@@ -132,13 +132,13 @@
             <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/cardban.png">
 
             <div class="card-body">
-              <p class="card-text">CARDBAN</p>
+              <p class="card-text">CARDBAN . Site Institucional</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                 </div>
-                <small class="text-muted">9 mins</small>
+                <small class="text-muted">PHP / HTML5 / CSS3</small>
               </div>
             </div>
           </div>
@@ -149,13 +149,13 @@
             <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/comunicacomm.png">
 
             <div class="card-body">
-              <p class="card-text">COMUNICACOMM</p>
+              <p class="card-text">COMUNICACOMM - Landing Page</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                 </div>
-                <small class="text-muted">9 mins</small>
+                <small class="text-muted">HTML5 / CSS3</small>
               </div>
             </div>
           </div>
@@ -171,7 +171,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                 </div>
-                <small class="text-muted">9 mins</small>
+                <small class="text-muted">CARTÃO VISITAS / CONF WEBSITE</small>
               </div>
             </div>
           </div>
@@ -187,7 +187,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                 </div>
-                <small class="text-muted">9 mins</small>
+                <small class="text-muted">Illustrator / Vetorização</small>
               </div>
             </div>
           </div>
@@ -204,7 +204,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                 </div>
-                <small class="text-muted">9 mins</small>
+                <small class="text-muted">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
             </div>
           </div>
@@ -220,7 +220,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                 </div>
-                <small class="text-muted">9 mins</small>
+                <small class="text-muted">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
             </div>
           </div>
@@ -230,7 +230,7 @@
             <img class="bd-placeholder-img card-img-top" width="100%" height="225" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false" src="<?php echo URL_BASE; ?>assets/img/mini/igor_flat.png">
 
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">IGOR PALHARES.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
