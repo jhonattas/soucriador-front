@@ -114,10 +114,12 @@
               
 
               <div class="col w3-container w3-center w3-animate-bottom-2 animation-custom-params home-button">
-                <div class="card"  style="border: none;">
-                  <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/projects.png" class="card-img-top" alt="...">
-                  projetos
-                </div>
+                <a href="https://soucriador.com/projetos/">
+                  <div class="card"  style="border: none;">
+                    <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/projects.png" class="card-img-top" alt="...">
+                    projetos
+                  </div>
+                </a>
               </div>
               <div class="col w3-container w3-center w3-animate-bottom-3 home-button">
                 <div class="card"  style="border: none;">
