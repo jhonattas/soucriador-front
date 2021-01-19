@@ -107,7 +107,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">html5 / css / js</small>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
               </div>
             </div>
           </div>
@@ -122,7 +122,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">Ruby / Amazon SQS</small>
+                <small class="text-muted" style="text-align: right">Ruby / Amazon SQS</small>
               </div>
             </div>
           </div>
@@ -138,7 +138,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">PHP / HTML5 / CSS3</small>
+                <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3</small>
               </div>
             </div>
           </div>
@@ -155,7 +155,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">HTML5 / CSS3</small>
+                <small class="text-muted" style="text-align: right">HTML5 / CSS3</small>
               </div>
             </div>
           </div>
@@ -171,7 +171,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">CARTÃO VISITAS / CONF WEBSITE</small>
+                <small class="text-muted" style="text-align: right">CARTÃO VISITAS / CONF WEBSITE</small>
               </div>
             </div>
           </div>
@@ -187,7 +187,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">Illustrator / Vetorização</small>
+                <small class="text-muted" style="text-align: right">Illustrator / Vetorização</small>
               </div>
             </div>
           </div>
@@ -204,7 +204,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
+                <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
             </div>
           </div>
@@ -220,7 +220,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
+                <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
             </div>
           </div>
@@ -236,7 +236,7 @@
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
                 </div>
-                <small class="text-muted">Illustrator</small>
+                <small class="text-muted" style="text-align: right">Illustrator</small>
               </div>
             </div>
           </div>
