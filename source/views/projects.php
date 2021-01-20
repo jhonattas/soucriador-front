@@ -121,7 +121,7 @@
                   <button 
                     type="button" 
                     class="btn btn-sm btn-outline-secondary" 
-                    onclick="window.location.href='http://saveway.com.br/'">visitar</button>
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">html5 / css / js</small>
               </div>
@@ -145,7 +145,7 @@
                     type="button" 
                     class="btn btn-sm btn-outline-secondary"
                     onclick="window.location.href='https://blog.jhonattas.com/pt/estrutura/rails/projects/building-amaterasu/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visitar</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">Ruby / Amazon SQS</small>
               </div>
@@ -167,7 +167,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3</small>
               </div>
@@ -191,7 +191,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">HTML5 / CSS3</small>
               </div>
@@ -213,7 +213,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">CARTÃO VISITAS / CONF WEBSITE</small>
               </div>
@@ -235,7 +235,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">Illustrator / Vetorização</small>
               </div>
@@ -258,7 +258,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
@@ -280,7 +280,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
@@ -298,11 +298,11 @@
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
-              <p class="card-text">IGOR PALHARES.</p>
+              <p class="card-text">FLAT GUYS.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">Illustrator</small>
               </div>
