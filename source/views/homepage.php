@@ -10,6 +10,9 @@
     <!-- Bootstrap core CSS -->
     <link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
+    <?php require_once('components/plugins/plugin-analytics.php'); ?>
+    <?php require_once('components/viewport.php'); ?>
+
     <link rel="stylesheet" type="text/css" href="https://api.soucriador.com/static/w3.css">
     <link rel="stylesheet" type="text/css" href="https://api.soucriador.com/static/svg-animation.css">
 
