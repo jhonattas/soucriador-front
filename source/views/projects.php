@@ -117,7 +117,7 @@
                   <button 
                     type="button" 
                     class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/frontend/building-saveway-front/'">detalhes</button>
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/saveway-site/'">detalhes</button>
                   <button 
                     type="button" 
                     class="btn btn-sm btn-outline-secondary" 
@@ -138,13 +138,13 @@
                 background-image: url('<?php echo URL_BASE; ?>assets/img/mini/amaterasu.png');"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
-              <p class="card-text">AMATERASU</p>
+              <p class="card-text"><b>AMATERASU</b></p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button 
                     type="button" 
                     class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/estrutura/rails/projects/building-amaterasu/'">detalhes</button>
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/amaterasu/'">detalhes</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">Ruby / Amazon SQS</small>
@@ -163,11 +163,14 @@
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
-              <p class="card-text">CARDBAN . Site Institucional</p>
+              <p class="card-text"><b>CARDBAN</b> . Site Institucional</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/cardban-institucional/'">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3</small>
               </div>
@@ -187,13 +190,16 @@
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
-              <p class="card-text">COMUNICACOMM - Landing Page</p>
+              <p class="card-text"><b>COMUNICACOMM</b> - Landing Page</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/comunicacomm/'">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
-                <small class="text-muted" style="text-align: right">HTML5 / CSS3</small>
+                <small class="text-muted" style="text-align: right">HTML5 / CSS3 / Gráfica</small>
               </div>
             </div>
           </div>
@@ -212,8 +218,11 @@
               <p class="card-text">DANIELLA RAMALHO</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/daniela-ramalho/'">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">CARTÃO VISITAS / CONF WEBSITE</small>
               </div>
@@ -234,8 +243,11 @@
               <p class="card-text">DCE</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/dce/'">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">Illustrator / Vetorização</small>
               </div>
@@ -257,8 +269,11 @@
               <p class="card-text">FLYWORLD - Franquia.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/flyworld-franquia/'">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
@@ -279,8 +294,11 @@
               <p class="card-text">GRUPO JR CAMP</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/grupojrcamp-site/'">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
               </div>
@@ -301,8 +319,11 @@
               <p class="card-text">FLAT GUYS.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visualizar</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/flat-guys/'">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">Illustrator</small>
               </div>
