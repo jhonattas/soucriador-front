@@ -215,7 +215,7 @@
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
-              <p class="card-text">DANIELLA RAMALHO</p>
+              <p class="card-text"><b>DANIELLA RAMALHO</b></p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button 
@@ -240,7 +240,7 @@
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
-              <p class="card-text">DCE</p>
+              <p class="card-text"><b>DCE</b></p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button 
@@ -266,7 +266,7 @@
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
-              <p class="card-text">FLYWORLD - Franquia.</p>
+              <p class="card-text"><b>FLYWORLD</b> . Franquia.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button 
@@ -291,7 +291,7 @@
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
-              <p class="card-text">GRUPO JR CAMP</p>
+              <p class="card-text"><b>GRUPO JR CAMP</b></p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button 
@@ -316,7 +316,7 @@
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
 
             <div class="card-body">
-              <p class="card-text">FLAT GUYS.</p>
+              <p class="card-text"><b>FLAT GUYS</b></p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button 
