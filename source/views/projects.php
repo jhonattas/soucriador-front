@@ -121,7 +121,7 @@
                   <button 
                     type="button" 
                     class="btn btn-sm btn-outline-secondary" 
-                    onclick="window.location.href='https://saveway.com.br/'">visitar</button>
+                    onclick="window.location.href='http://saveway.com.br/'">visitar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">html5 / css / js</small>
               </div>
@@ -141,8 +141,11 @@
               <p class="card-text">AMATERASU</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">visitar</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/estrutura/rails/projects/building-amaterasu/'">detalhes</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visitar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">Ruby / Amazon SQS</small>
               </div>
