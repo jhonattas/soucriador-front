@@ -137,6 +137,34 @@
                 background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
+              <p class="card-text"><b>Universal Equipamentos</b></p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/universal-equipamento/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">web / apps / dashboard</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
               <p class="card-text"><b>ANIMALCAMP</b> - Landing Page.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -200,6 +228,34 @@
                     type="button" 
                     class="btn btn-sm btn-outline-secondary"
                     onclick="window.location.href='https://blog.jhonattas.com/pt/projects/malumaia/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/soumaisfit.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>SOUMAISFITb> - Landing Page.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/soumaisfit/'">detalhes</button>
                   <button 
                     type="button" 
                     class="btn btn-sm btn-outline-secondary disabled" 
@@ -312,6 +368,34 @@
                     type="button" 
                     class="btn btn-sm btn-outline-secondary"
                     onclick="window.location.href='https://blog.jhonattas.com/pt/projects/doghouseamanna/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/traderally.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>TRADERALLY</b></p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/traderally/'">detalhes</button>
                   <button 
                     type="button" 
                     class="btn btn-sm btn-outline-secondary disabled" 
@@ -553,6 +637,36 @@
             </div>
           </div>
         </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/paulo-atencia.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>Paulo Atencia</b> - Landing Page.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/paulo-atencia/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
       </div>
     </div>
   </div>
