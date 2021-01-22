@@ -134,7 +134,7 @@
               width="100%" 
               height="225" 
               style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');"
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/universal-equipamento.png');"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
               <p class="card-text"><b>Universal Equipamentos</b></p>
@@ -249,7 +249,7 @@
                 background-image: url('<?php echo URL_BASE; ?>assets/img/mini/soumaisfit.png');"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
-              <p class="card-text"><b>SOUMAISFITb> - Landing Page.</p>
+              <p class="card-text"><b>SOUMAISFIT</b> - Landing Page.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button 
