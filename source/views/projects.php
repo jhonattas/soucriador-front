@@ -171,8 +171,8 @@
                     onclick="window.location.href='https://blog.jhonattas.com/pt/projects/ch7engenharia/'">detalhes</button>
                   <button 
                     type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                    class="btn btn-sm btn-outline-secondary" 
+                    onclick="window.location.href='https://ch7engenharia.com.br'">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">html5 / css / js</small>
               </div>
