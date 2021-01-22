@@ -162,7 +162,7 @@
               width="100%" 
               height="225" 
               style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');"
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/fhmassessoria.png');"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
               <p class="card-text"><b>FHM ASSESSORIA</b> - Pagina Institucional.</p>
