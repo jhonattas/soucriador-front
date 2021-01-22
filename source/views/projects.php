@@ -131,6 +131,62 @@
               width="100%" 
               height="225" 
               style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/auditta.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>AUDITTA</b> - Landing Page.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/auditta/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>CH7 ENGENHARIA</b> - Landing Page.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/ch7engenharia/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
                 background-image: url('<?php echo URL_BASE; ?>assets/img/mini/saveway.png');"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
