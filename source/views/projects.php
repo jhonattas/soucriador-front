@@ -98,6 +98,35 @@
     <div class="container">
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/patrocine.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>Cynema - Patrocine Cinemas</b></p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/patrocine/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">web / app / midias</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="col">
           <div class="card shadow-sm">
             <img 
@@ -115,6 +144,90 @@
                     type="button" 
                     class="btn btn-sm btn-outline-secondary"
                     onclick="window.location.href='https://blog.jhonattas.com/pt/projects/animalcamp/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>FHM ASSESSORIA</b> - Pagina Institucional.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/fhmassessoria/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/malumaia.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>Malu Maia</b> - Landing Page.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/malumaia/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/muiinchic.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>MUIINCHIC</b></p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/muiinchic/'">detalhes</button>
                   <button 
                     type="button" 
                     class="btn btn-sm btn-outline-secondary disabled" 
