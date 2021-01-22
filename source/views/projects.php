@@ -11,6 +11,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="<?php echo URL_BASE; ?>assets/css/plugin-whatsapp.css" />
 
     <?php require_once('components/plugins/plugin-analytics.php'); ?>
     <?php require_once('components/viewport.php'); ?>
@@ -45,6 +46,7 @@
     
   </head>
   <body>
+    <?php require_once('components/plugins/plugin-whatsapp.php'); ?>
     
 <header>
   <div class="collapse bg-dark" id="navbarHeader">
@@ -159,7 +161,7 @@
               width="100%" 
               height="225" 
               style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');"
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/ch7engenharia.png');"
               aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
               <p class="card-text"><b>CH7 ENGENHARIA</b> - Landing Page.</p>
@@ -173,6 +175,34 @@
                     type="button" 
                     class="btn btn-sm btn-outline-secondary" 
                     onclick="window.location.href='https://ch7engenharia.com.br'">visualizar</button>
+                </div>
+                <small class="text-muted" style="text-align: right">html5 / css / js</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img 
+              class="bd-placeholder-img card-img-top" 
+              width="100%" 
+              height="225" 
+              style="
+                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/doghouse.png');"
+              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card-body">
+              <p class="card-text"><b>DOG HOUSE AMANNA</b> - Mídias Sociais.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary"
+                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/doghouseamanna/'">detalhes</button>
+                  <button 
+                    type="button" 
+                    class="btn btn-sm btn-outline-secondary disabled" 
+                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
                 </div>
                 <small class="text-muted" style="text-align: right">html5 / css / js</small>
               </div>

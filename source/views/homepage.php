@@ -15,6 +15,7 @@
 
     <link rel="stylesheet" type="text/css" href="https://api.soucriador.com/static/w3.css">
     <link rel="stylesheet" type="text/css" href="https://api.soucriador.com/static/svg-animation.css">
+    <link rel="stylesheet" href="<?php echo URL_BASE; ?>assets/css/plugin-whatsapp.css" />
 
 
 <!-- Icons -->
@@ -66,6 +67,7 @@
     
   </head>
   <body>
+    <?php require_once('components/plugins/plugin-whatsapp.php'); ?>
     
 <main>
 
