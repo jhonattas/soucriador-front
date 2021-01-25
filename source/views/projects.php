@@ -13,13 +13,9 @@
     <link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="stylesheet" href="<?php echo URL_BASE; ?>assets/css/plugin-whatsapp.css" />
 
+    <?php require_once('components/favicon.php'); ?>
     <?php require_once('components/plugins/plugin-analytics.php'); ?>
     <?php require_once('components/viewport.php'); ?>
-
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="https://blog.jhonattas.com/favicon.ico">
-    <!-- 32x32 -->
-    <link rel="shortcut icon" href="https://blog.jhonattas.com/favicon.png"><meta name="theme-color" content="#7952b3">
 
     <style>
       .bd-placeholder-img {

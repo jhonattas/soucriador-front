@@ -10,27 +10,13 @@
     <!-- Bootstrap core CSS -->
     <link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
+    <?php require_once('components/favicon.php'); ?>
     <?php require_once('components/plugins/plugin-analytics.php'); ?>
     <?php require_once('components/viewport.php'); ?>
 
     <link rel="stylesheet" type="text/css" href="https://api.soucriador.com/static/w3.css">
     <link rel="stylesheet" type="text/css" href="https://api.soucriador.com/static/svg-animation.css">
-    <link rel="stylesheet" href="<?php echo URL_BASE; ?>assets/css/plugin-whatsapp.css" />
-
-
-<!-- Icons -->
-<!-- 16x16 -->
-<link rel="shortcut icon" href="https://blog.jhonattas.com/favicon.ico">
-<!-- 32x32 -->
-<link rel="shortcut icon" href="https://blog.jhonattas.com/favicon.png">
-<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="https://blog.jhonattas.com/images/apple-touch-icon-precomposed.png">
-<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://blog.jhonattas.com/images/apple-touch-icon-72x72-precomposed.png">
-<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://blog.jhonattas.com/images/apple-touch-icon-114x114-precomposed.png">
-<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://blog.jhonattas.com/images/apple-touch-icon-144x144-precomposed.png">
+    <link rel="stylesheet" href="<?php echo URL_BASE; ?>assets/css/plugin-whatsapp.css" /
 
 
   <style type="text/css">
