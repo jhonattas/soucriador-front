@@ -45,7 +45,7 @@
     <?php require_once('components/plugins/plugin-whatsapp.php'); ?>
     
 <header>
-  <div class="collapse bg-dark" id="navbarHeader">
+  <!-- <div class="collapse bg-dark" id="navbarHeader">
     <div class="container">
       <div class="row">
         <div class="col-sm-8 col-md-7 py-4">
@@ -62,15 +62,15 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container">
-      <a href="https://soucriador.com/" class="navbar-brand d-flex align-items-center">
+      <a href="<?php echo URL_BASE; ?>" class="navbar-brand d-flex align-items-center">
         <strong>Sou Criador</strong>
       </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+      <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
-      </button>
+      </button> -->
     </div>
   </div>
 </header>
