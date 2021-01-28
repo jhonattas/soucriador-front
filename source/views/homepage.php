@@ -20,6 +20,10 @@
 
   <style type="text/css">
 
+    a {
+      text-decoration: none;
+    }
+
     .home-button, .home-button:hover {
       -webkit-transition: opacity 1s ease-in-out;
       -moz-transition: opacity 1s ease-in-out;
@@ -104,7 +108,7 @@
               
 
               <div class="col w3-container w3-center w3-animate-bottom-2 animation-custom-params home-button">
-                <a href="https://soucriador.com/projetos/">
+                <a href="<?php echo URL_BASE; ?>projetos/">
                   <div class="card"  style="border: none;">
                     <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/projects.png" class="card-img-top" alt="...">
                     projetos

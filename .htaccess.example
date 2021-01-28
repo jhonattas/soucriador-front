@@ -15,5 +15,5 @@ RewriteCond %{SCRIPT_FILENAME} !-f
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^(.*)$ index.php?route=/$1 [L,QSA]
 
-SetEnv URL_BASE "http://localhost/soucriador/front"
+SetEnv URL_BASE "http://localhost"
 SetEnv mode "development"

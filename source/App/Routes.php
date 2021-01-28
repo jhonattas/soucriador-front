@@ -5,20 +5,11 @@
   $router->group(null);
   $router->get("/", "Pages:home");
 
-  $router->group("agradecimento");
-  $router->get("/", "Pages:greetings");
-
   $router->group("projetos");
   $router->get("/", "Pages:projects");
 
   $router->group("manutencao");
   $router->get("/", "Pages:maintenance");
-
-  $router->group("promocoes");
-  $router->get("/", "Pages:promotions");
-  
-  $router->group("lojas");
-  $router->get("/", "Pages:stores");
   
   /* carrinho */ 
   $router->group("carrinho");
