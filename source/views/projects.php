@@ -26,6 +26,17 @@
         user-select: none;
       }
 
+      .card-image {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: block;
+        float: left;
+        height: 255px;
+        width: 100%;
+        border-radius: 3px;
+      }
+
       .card-img-top {
         background-repeat: no-repeat;
         background-size: cover, contain;
@@ -96,741 +107,281 @@
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/patrocine.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>Cynema - Patrocine Cinemas</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/patrocine/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">web / app / midias</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/patrocine/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/patrocine.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">patrocine</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/universal-equipamento.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>Universal Equipamentos</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/universal-equipamento/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">web / apps / dashboard</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/universalequipamento/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/universalequipamento.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">universal equipamento</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/ch7engenharia.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>CH7 ENGENHARIA</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/ch7engenharia/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary" 
-                    onclick="window.location.href='https://ch7engenharia.com.br'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/ch7engenharia/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/ch7engenharia.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">ch7 engenharia</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/whatsapp-tricks.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>PHONEGURU</b> - Whatsapp Tricks.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/whatsapp-tricks/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://ch7engenharia.com.br'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/whatsapptricks/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/whatsapptricks.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">whatsapp tricks</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>ANIMALCAMP</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/animalcamp/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/animalcamp/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/animalcamp.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">animalcamp</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/fhmassessoria.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>FHM ASSESSORIA</b> - Pagina Institucional.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/fhmassessoria/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/fhmassessoria/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/fhmassessoria.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">fhm assessoria</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/malumaia.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>Malu Maia</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/malumaia/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/malumaia/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/malumaia.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">malu maia</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/soumaisfit.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>SOUMAISFIT</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/soumaisfit/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/soumaisfit/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/soumaisfit.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">sou+fit</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/muiinchic.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>MUIINCHIC</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/muiinchic/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/muiinchic/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/muiinchic.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">muiinchic</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/auditta.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>AUDITTA</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/auditta/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/auditta/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/auditta.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">auditta</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/doghouse.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>DOG HOUSE AMANNA</b> - Mídias Sociais.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/doghouseamanna/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/doghouseamanna/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/doghouse.png');
+              background-position: center;
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">dog house amanna</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/traderally.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>TRADERALLY</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/traderally/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/traderally/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/traderally.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">traderally</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/cardapiu.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>CARDAPIU</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/cardapiu/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/cardapiu/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/cardapiu.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">cardapiu</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/jennifer.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>JENNIFER'S 15</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/jennifers15/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/jennifers15/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/jennifer.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">jennifer's 15</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/massacard.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>MASSACARD</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/massacard/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/massacard/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/massacard.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">massacard</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/palhares.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>PALHARES</b>.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/palhares/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/palhares/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/palhares.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">palhares</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/saveway.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>Saveway</b> - Página institucional.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/saveway-site/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/saveway/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/saveway.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">saveway</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/amaterasu.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>AMATERASU</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/amaterasu/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">Ruby / Amazon SQS</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/amaterasu/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/amaterasu.png');
+            ">      
             </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/cardban.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-
-            <div class="card-body">
-              <p class="card-text"><b>CARDBAN</b> . Site Institucional</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/cardban-institucional/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3</small>
-              </div>
-            </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">amaterasu</div>
         </div>
 
         <div class="col">
-          <div 
-            class="card shadow-sm" >
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/comunicacomm.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-
-            <div class="card-body">
-              <p class="card-text"><b>COMUNICACOMM</b> - Landing Page</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/comunicacomm/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">HTML5 / CSS3 / Gráfica</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/cardban/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/cardban.png');
+            ">      
             </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/daniella_ramalho.jpg');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-
-            <div class="card-body">
-              <p class="card-text"><b>DANIELLA RAMALHO</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/daniela-ramalho/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">CARTÃO VISITAS / CONF WEBSITE</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/dce.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-
-            <div class="card-body">
-              <p class="card-text"><b>DCE</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/dce/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">Illustrator / Vetorização</small>
-              </div>
-            </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">cardban</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/flyworld_franquia.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-
-            <div class="card-body">
-              <p class="card-text"><b>FLYWORLD</b> . Franquia.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/flyworld-franquia/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/comunicacomm/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/comunicacomm.png');
+            ">      
             </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/grupojrcamp.jpg');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-
-            <div class="card-body">
-              <p class="card-text"><b>GRUPO JR CAMP</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/grupojrcamp-site/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">PHP / HTML5 / CSS3 / PHOTOSHOP</small>
-              </div>
-            </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">comunicacomm</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/valepay.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>VALEPAY</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/valepay/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/valepay/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/valepay.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">valepay</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/igor_flat.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-
-            <div class="card-body">
-              <p class="card-text"><b>FLAT GUYS</b></p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/flat-guys/'">detalhes</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary disabled">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">Illustrator</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/flatguys/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/flatguys.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">flat guys</div>
         </div>
 
         <div class="col">
-          <div class="card shadow-sm">
-            <img 
-              class="bd-placeholder-img card-img-top" 
-              width="100%" 
-              height="225" 
-              style="
-                background-image: url('<?php echo URL_BASE; ?>assets/img/mini/paulo-atencia.png');"
-              aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <div class="card-body">
-              <p class="card-text"><b>Paulo Atencia</b> - Landing Page.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary"
-                    onclick="window.location.href='https://blog.jhonattas.com/pt/projects/paulo-atencia/'">detalhes</button>
-                  <button 
-                    type="button" 
-                    class="btn btn-sm btn-outline-secondary disabled" 
-                    onclick="window.location.href='https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png'">visualizar</button>
-                </div>
-                <small class="text-muted" style="text-align: right">html5 / css / js</small>
-              </div>
+          <a href="https://blog.jhonattas.com/pt/projects/pauloatencia/">
+            <div class="card-image"
+            min-height="255px"
+            style="
+              background-image: url('<?php echo URL_BASE; ?>assets/img/mini/pauloatencia.png');
+            ">      
             </div>
-          </div>
+          </a>
+          <div class="" style="color: #333333">paulo atencia</div>
         </div>
-
 
       </div>
     </div>
