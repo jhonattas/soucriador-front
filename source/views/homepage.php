@@ -15,7 +15,7 @@
     <?php require_once('components/viewport.php'); ?>
 
     <link rel="stylesheet" type="text/css" href="https://api.soucriador.com/static/w3.css">
-    <link rel="stylesheet" type="text/css" href="https://api.soucriador.com/static/svg-animation.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo URL_BASE; ?>assets/css/svg-animation.css">
     <link rel="stylesheet" href="<?php echo URL_BASE; ?>assets/css/plugin-whatsapp.css" />
 
   <style type="text/css">
