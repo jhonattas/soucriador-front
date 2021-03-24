@@ -10,9 +10,9 @@
     <!-- Bootstrap core CSS -->
     <link href="<?php echo URL_BASE; ?>assets/css/bootstrap.min.css" rel="stylesheet">
 
-    <?php require_once('components/favicon.php'); ?>
-    <?php require_once('components/plugins/plugin-analytics.php'); ?>
-    <?php require_once('components/viewport.php'); ?>
+    <?php require_once 'components/favicon.php';?>
+    <?php require_once 'components/plugins/plugin-analytics.php';?>
+    <?php require_once 'components/viewport.php';?>
 
     <link rel="stylesheet" type="text/css" href="<?php echo URL_BASE; ?>assets/css/w3.css">
     <link rel="stylesheet" type="text/css" href="<?php echo URL_BASE; ?>assets/css/svg-animation.css">
@@ -31,7 +31,7 @@
       -o-transition: opacity 1s ease-in-out;
       transition: opacity 1s ease-in-out;
     }
-      
+
     .home-button:hover {
         zoom: 1;
         filter: alpha(opacity=50);
@@ -53,39 +53,39 @@
       }
     </style>
 
-    
+
   </head>
   <body>
-    <?php require_once('components/plugins/plugin-whatsapp.php'); ?>
-    
+    <?php require_once 'components/plugins/plugin-whatsapp.php';?>
+
 <main>
 
   <div class="entry-header">
     <div class="entry-image-index" style="max-width: 330px !important;">
-      <svg 
-        version="1.1" 
-        xmlns="http://www.w3.org/2000/svg" 
-        xmlns:xlink="http://www.w3.org/1999/xlink" 
-        x="0px" 
-        y="0px" 
-        id="logo" 
+      <svg
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px"
+        y="0px"
+        id="logo"
         class="line-drawing"
-        width="330px" 
-        height="330px" 
-        viewBox="315.5 295.5 330 330" 
-        enable-background="new 315.5 295.5 330 330" 
-        xml:space="preserve" 
+        width="330px"
+        height="330px"
+        viewBox="315.5 295.5 330 330"
+        enable-background="new 315.5 295.5 330 330"
+        xml:space="preserve"
         style="">
-        <path class="darker"  
+        <path class="darker"
           d="M635.984,611.215H430.94l101.832-255.776L635.984,611.215z
           M597.543,611.215H349.455l123.209-301.674L597.543,611.215z M473.122,611.215H325.949l73.091-183.936L473.122,611.215z
           M597.543,611.215H430.94l81.472-204.638L597.543,611.215z"></path>
       </svg>
-      
+
       <div data-svg="logo" class="logo hide">
         <img src="https://blog.jhonattas.com/images/criador_colorido.png"/>
       </div>
-              
+
     </div><!-- /.entry-image-index -->
   </div>
 
@@ -97,7 +97,7 @@
           <div class="container">
             <div class="row align-items-center">
               <!-- jhonattas.com -->
-              <div class="col w3-container w3-center w3-animate-bottom-1 animation-custom-params home-button">
+              <div class="col-sm w3-container w3-center w3-animate-bottom-1 animation-custom-params home-button">
                 <a href="https://jhonattas.com">
                   <div class="card" style="border: none;">
                     <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/jhonattasdotcom.png" class="card-img-top" alt="...">
@@ -105,9 +105,9 @@
                   </div>
                 </a>
               </div>
-              
 
-              <div class="col w3-container w3-center w3-animate-bottom-2 animation-custom-params home-button">
+
+              <div class="col-sm w3-container w3-center w3-animate-bottom-2 animation-custom-params home-button">
                 <a href="<?php echo URL_BASE; ?>projetos/">
                   <div class="card"  style="border: none;">
                     <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/projects.png" class="card-img-top" alt="...">
@@ -115,7 +115,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col w3-container w3-center w3-animate-bottom-3 home-button">
+              <div class="col-sm w3-container w3-center w3-animate-bottom-3 home-button">
                 <div class="card"  style="border: none;">
                   <img src="<?php echo URL_BASE; ?>assets/img/home_buttons/services.png" class="card-img-top" alt="...">
                   serviços
@@ -145,6 +145,6 @@
     <script src="<?php echo URL_BASE; ?>assets/js/classie.js"></script>
     <script src="<?php echo URL_BASE; ?>assets/js/svg.js"></script>
 
-      
+
   </body>
 </html>
