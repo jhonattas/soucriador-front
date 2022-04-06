@@ -2,9 +2,7 @@
 if(getenv('mode') == 'development'){
   define("URL_BASE", getenv('URL_BASE'));
   define("API", "http://localhost:3458/");
-
 } else {
-  //define("URL_BASE", "http://localhost/soucriador/front/");
   define("URL_BASE", "https://soucriador.com/");
   define("API", "https://api.soucriador.com/");
 }
