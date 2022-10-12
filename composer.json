@@ -1,0 +1,31 @@
+{
+  "name": "jhonattas/soucriador-front",
+  "description": "front from soucriador",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Jhonattas Henrique",
+      "email": "jhonattas@soucriador.com"
+    }
+  ],
+  "config": {
+    "vendor-dir" : "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\" : "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "phpmailer/phpmailer": "6.0.*",
+    "components/jquery": "3.5.*",
+    "twbs/bootstrap": "^4.5",
+    "coffeecode/router": "1.0.*",
+    "rsportella/popper": "dev-master"
+  }
+}

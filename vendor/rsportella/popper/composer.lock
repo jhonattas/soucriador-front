@@ -1,0 +1,44 @@
+{
+    "_readme": [],
+    "content-hash": "42d388a66da565de3491193d8bbba6f3",
+    "packages": [
+        {
+            "name": "rsportella/popper",
+            "version": "1.0.0",
+            "require": {
+                "php": "^5.3.2 || ^7.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.x-dev"
+                }
+            },
+            "notification-url": "https://popper.js.org/",
+            "license": ["MIT"],
+            "authors": [
+                {
+                    "name": "FEDERICO ZIVOLO",
+                    "homepage": "https://popper.js.org/"
+                }
+            ],
+            "description": "Popper.js",
+            "keywords": [
+                "javascript",
+                "popper"
+            ],
+            "time": "2019-05-05T09:30:10+00:00"
+        },       
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.2"
+    },
+    "platform-dev": {
+        "ext-json": "*"
+    }
+}

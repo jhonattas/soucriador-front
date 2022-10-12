@@ -1,0 +1,26 @@
+nav.topNavigation{
+  border-bottom: 3px #ffffff solid;
+  background-image: url('../img/background-low-poly-pink.png');
+  background-color: #EB0F7B !important; 
+}
+
+nav.topNavigation .cashButton {
+  background-color: #f04b9c; border: solid 1px #f04b9c;
+}
+
+img.navigationLogo {
+  max-width: 200px;
+  margin-top: 30px;
+}
+
+@media (min-width: 992px) {
+  .navbar {
+    height:70px;
+  }
+}
+
+@media(max-width: 765px){
+  .navigationLogo {
+    display: none;
+  }
+}

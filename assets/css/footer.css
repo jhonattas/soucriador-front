@@ -1,0 +1,55 @@
+footer {
+  background-color: #EB0F7B;
+  color: #cccccc; 
+  padding-top: 20px; 
+  padding-bottom: 20px; 
+  border-top: 2px solid #FFFFFF; 
+  background-image: url('../img/background-low-poly-pink.png');
+}
+
+footer.enterpriseBox{
+  margin-bottom: 20px;
+}
+
+
+.enterpriseBox h5.mainTitle {
+  font-size: 1.2em; 
+  color: yellow !important; 
+  text-shadow: 0px 0px 6px #EB0F7B;
+}
+
+.enterpriseBox span.address{
+  font-size: 0.9em;
+  color: #ffffff;
+}
+
+.address .link-phone {
+  color: #ffeb3b;
+}
+
+.address .link-whatsapp {
+  color: #ffeb3b;
+}
+
+.address .link-mail {
+  color: #ffeb3b; 
+  font-size: 0.8em !important;
+}
+
+footer.copyright {
+  margin-right: 0 important!; margin-left: 0px !important;" margin-right="0px
+}
+
+footer .criador {
+  text-align: center;
+  color: #ffffff;
+}
+
+footer .criador .secondLine {
+  font-size: 0.9em; color: #ededed;
+}
+
+footer .criador a {
+  color: #ededed !important;
+  text-decoration: underline;
+}

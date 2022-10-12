@@ -1,0 +1,56 @@
+.entry-header{
+	/* background: #fff; */
+}
+
+.entry-image-index {
+	max-width: 330px;
+	margin: 0 auto;
+}
+
+.entry-image-index .logo{
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+
+svg{
+	position: absolute;
+}
+
+.show {
+	opacity: 1;
+}
+
+.hide {
+	opacity: 0;
+}
+
+.line-drawing{
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+
+path.line-round {
+	stroke-linecap: round;
+}
+
+path.stroke-medium {
+	stroke-width: 2;
+}
+
+path.stroke-thin {
+	stroke-width: 1;
+}
+
+svg {
+	pointer-events: none;
+}
+
+svg.line-drawing path {
+	fill: none;
+	stroke-width: 2;
+	stroke: #ddd;
+}
+
+svg.line-drawing path.darker {
+	stroke: #ddd;
+}

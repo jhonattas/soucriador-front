@@ -1,0 +1,25 @@
+fieldset {
+    padding: 5px;
+}
+
+.color-one {
+    background-color: green;
+}
+
+.produto {
+    margin: 5px;
+    float: left;
+    color: #ffffff !important;
+}
+
+.produto:hover {
+    color: #ffc107 !important;
+}
+
+legend {
+    font-size: 1em;
+}
+
+tr.product-line {
+  transition: transform 1.5s 0s, opacity 1.25s 0s;
+}
